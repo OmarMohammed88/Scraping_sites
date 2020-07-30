@@ -1,2 +1,3 @@
 # Scraping_sites
-This Repo for Scraping websites and it will keep update
+This Repo for Scraping websites 
+it contains many different scripts for many websites
